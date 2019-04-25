@@ -1,11 +1,14 @@
 For AngularJS
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.7/angular.min.js"></script>
+https://ajax.googleapis.com/ajax/libs/angularjs/1.7.7/angular.min.js
 
 For JQuery
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 
 For Glassfish
 download.oracle.com/glassfish/4.1.1/release/glassfish-4.1.1.zip
 
 for xampp
 https://www.apachefriends.org/xampp-files/7.3.4/xampp-linux-x64-7.3.4-0-installer.run
+
+for execution tutorials
+https://www.youtube.com/playlist?list=PLJ5WnI4Jud-RMQGADkVAeo7nErGgUvvz5
